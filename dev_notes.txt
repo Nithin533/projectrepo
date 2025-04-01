@@ -4,3 +4,4 @@ Updates from master branch
 "Initial development notes"
 More detailed development notes.
 >>>>>>> development
+this is an error line intordeced inside
